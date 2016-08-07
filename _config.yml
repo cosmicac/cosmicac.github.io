@@ -1,7 +1,7 @@
 # Site settings
-title: slim
-baseurl: "/slim"
-url: "http://syaning.com"
+title: cosmicac
+baseurl: "/cosmicac"
+url: "http://cosmicac.github.io"
 
 # Build settings
 kramdown:
