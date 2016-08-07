@@ -2,6 +2,15 @@
 <html>
   {% include head.html %}
   <body>
+    <u1>
+      {% if site.header-links.github %}
+      <li>
+        <a href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i> GitHub
+        </a>
+      </li>
+      {% endif %}
+    </u1>
     <header class="site-header">
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
     </header>
