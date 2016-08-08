@@ -2,18 +2,28 @@
 <html>
   {% include head.html %}
   <body>
-    <u1>
-      {% if site.header-links.github %}
-      <li>
-        <a href="https://github.com/{{ site.github_username }}">
-          <i class="fa fa-github"></i> GitHub
-        </a>
-      </li>
-      {% endif %}
-    </u1>
+
     <header class="site-header">
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <p>
+        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </p>
+
+      <p>
+        {% if site.header-links.github %}
+        <a href="https://github.com/{{ site.header-links.github }}">
+          <i class="fa fa-github"></i> 
+        </a>
+        {% endif %}
+
+        {% if site.header-links.linkedin %}
+        <a href="https://linkedin.com/in/{{ site.header-links.linkedin }}">
+          <i class="fa fa-linkedin"></i>
+        </a>
+        {% endif %}
+      </p>
     </header>
+
+
     <div class="page-content">
       {{ content }}
     </div>
