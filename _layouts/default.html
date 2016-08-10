@@ -9,6 +9,11 @@
 
       <br>
 
+      {% if site.header-links.email %}
+      <a href="mailto:{{ site.header-links.email }}">
+        <i class="fa fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+
       {% if site.header-links.github %}
       <a href="https://github.com/{{ site.header-links.github }}">
           <i class="fa fa-github"></i></a>

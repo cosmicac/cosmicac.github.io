@@ -19,6 +19,20 @@
     }
 }
 
+/**
+ * IconTransitions
+ */
+.fa{
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+    transition: all 0.5s;
+}
+.fa:hover{
+  color: lighten($brand-color, 15%);
+}
 
 /**
  * Page content
