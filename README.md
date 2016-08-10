@@ -1,6 +1,6 @@
-# slim
+# Blog
 
-slim is just a slim jekyll theme. [Demo](http://syaning.com/slim).
+Just my blog/personal site. 
 
 ### License
 
