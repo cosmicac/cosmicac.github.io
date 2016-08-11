@@ -23,7 +23,8 @@ $spacing-unit:     2rem;
 //$grey-color-dark:  darken($grey-color, 25%);
 
 $text-color:       #fff;
-$background-color: #333333;
+$background-color: darken(#333333, 4%);
+$background-color-light: lighten($background-color, 6%);
 $brand-color:      #83D0C9;
 
 $grey-color:       #333333;

@@ -92,14 +92,21 @@ a {
         text-decoration: underline;
     }
 }
+/**
+ * Highlighting
+ */
 
+pre.highlight {
+  background-color: $background-color-light;
+  color: #586e75;
+}
 
 
 /**
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
+    color: darken($text-color, 15%);
     padding-left: $spacing-unit / 2;
     border-left: 2px solid $grey-color-light;
     font-style: italic;
@@ -117,7 +124,8 @@ blockquote {
  */
 pre,
 code {
-    background-color: #fcfcfc;
+    //background-color: #fcfcfc;
+    background-color: $background-color-light;
 }
 
 code {

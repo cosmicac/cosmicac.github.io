@@ -10,7 +10,7 @@
 .site-title {
     font-size: 1.5rem;
     font-weight: 300;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.8px;
     color: $text-color;
 
     &,
@@ -31,7 +31,7 @@
     transition: all 0.5s;
 }
 .fa:hover{
-  color: lighten($brand-color, 15%);
+  color: lighten($brand-color, 30%);
 }
 
 /**
