@@ -2,7 +2,7 @@
 layout: post
 title:  "Duality"
 date:   2016-11-1
-published: false
+published: true
 ---
 
 <!-- 
