@@ -1,6 +1,6 @@
 # Site settings
 title: cosmicac
-baseurl: "/cosmicac.github.io"
+baseurl: "/home"
 url: "http://cosmicac.github.io"
 
 # Build settings
