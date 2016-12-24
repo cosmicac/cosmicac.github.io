@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Intuition For Logistic Regression"
-date:   2016-12-20
+date:   2016-12-24
 published: true
 ---
 
@@ -64,7 +64,7 @@ J(w) = -\sum_{i=1}^{n}y_i\log{p(x_i)} + (1-y_i)\log{(1-p(x_i))}
 \end{align*}
 $$
 
-To formulate our gradient descent update, we need to find gradient of $$J(w)$$ with respect to $$w$$, $$\nabla_w J(w)$$. But before we do that, let's first find the derivative of $$p(x_i)$$ with respect to $$w$$, $$\frac{\partial p(x_i)}{\partial w}$$. It'll be useful later. We have:
+To formulate our gradient descent update, we need to find gradient of $$J(w)$$ with respect to $$w$$, $$\nabla_w J(w)$$. But before we do that, let's first find the derivative of $$p(x_i)$$ with respect to $$w$$, $$\frac{\partial p(x_i)}{\partial w}$$. It'll be useful in the next step. We have:
 
 $$
 \begin{align*}
