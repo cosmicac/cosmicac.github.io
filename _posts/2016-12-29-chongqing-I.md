@@ -101,8 +101,6 @@ Again, old backed by the new.
 
 ![opera-house](https://lh3.googleusercontent.com/ZYyaslLllO8XG9pMe_6BxibCIbL8lWQ2H_6oG3cGIMLH0tHcAQ1dtjGA8wJ5jPXchfULmzZ3SA=w1860-h1394-no)
 
-Sick architecture.
-
 ![nightcity](https://lh3.googleusercontent.com/l8qVQmdnUXx3K4rMdUl8bRk7tFlnjlV_flzh38yjDK6JEm6woGCeulZIHvPQ22cwi0FDisxHqA=w1860-h1394-no)
 
 n i g h t c i t y
