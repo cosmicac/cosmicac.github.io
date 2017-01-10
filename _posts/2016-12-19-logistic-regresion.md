@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Intuition For Logistic Regression"
-date:   2016-12-24
+date:   2016-12-19
 published: true
 ---
 
