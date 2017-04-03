@@ -54,7 +54,7 @@ Someone used an anagram machine.
 
 ![chinese-kfc](https://lh3.googleusercontent.com/pvBsJ9vK0_VgT7UJz6OUCe7I3h_pohDaBSDWd798icVwdUqIOiIrjRceas79dSx_aLVKFQOAxA=w1110-h1478-no)
 
-Chinese KFC is way better than it's US counterpart. 
+Chinese KFC is way better than its US counterpart. 
 
 ![shanghai-alley](https://lh3.googleusercontent.com/bt9HpezZPnCFqfyTCgiHFcDpcq9WXhE5NdXKcDPsVb3Bn59r-y04Zy099dNmmN3h_6GtDDSOUQ=w1972-h1478-no)
 
