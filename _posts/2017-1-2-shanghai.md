@@ -54,7 +54,7 @@ Someone used an anagram machine.
 
 ![chinese-kfc](https://lh3.googleusercontent.com/pvBsJ9vK0_VgT7UJz6OUCe7I3h_pohDaBSDWd798icVwdUqIOiIrjRceas79dSx_aLVKFQOAxA=w1110-h1478-no)
 
-Chinese KFC is way better than it's US counterpart. 
+Chinese KFC is way better than its US counterpart. 
 
 ![shanghai-alley](https://lh3.googleusercontent.com/bt9HpezZPnCFqfyTCgiHFcDpcq9WXhE5NdXKcDPsVb3Bn59r-y04Zy099dNmmN3h_6GtDDSOUQ=w1972-h1478-no)
 
@@ -79,3 +79,27 @@ On the light-cycles.
 ![castle-night](https://lh3.googleusercontent.com/CBc-szmmHOgECvCl79EnvLao9kVOLJe6OHP6HCFLrnVrToKZf_EJlz8BcbsnpxT4lOeiGzYBqg=w1972-h1478-no)
 
 The castle at night. 
+
+![shanghai-model](https://lh3.googleusercontent.com/oD4rOeZr5BEK-xPizA2iq00uvu56Qp8bBhxp60F-dBRbkZMXbOVdBnqjnVguvMNQi5TwKZ3ocA=w1747-h1310-no)
+
+At the the urban planning museum. Amazing model of the inner ring of the city.
+
+![pink-board](https://lh3.googleusercontent.com/0mBTiQ98pjy36N3UrdnBf_S7dmj8T2L8Lza7UX1-i2c8KqD_I3uwIL-WzAMDM2toyvFkxnjOxw=w1747-h1310-no) 
+
+Pink billboard in the rain.
+
+![contrast](https://lh3.googleusercontent.com/ZvpLVYbmf-1VyuwwNlvr78Ug-HRvSCZtWE1RPdNpjN1XC5nsSEGRr2T2Fa88RtjSSFaWjL8vDQ=w1747-h1310-no)
+
+Old and new contrast again.
+
+![beneath-giants](https://lh3.googleusercontent.com/1FV1N2kwavEdJIQgL-dkBVcrwXsSPpIE5evI0cHKn8agrFATx-IIo6zMpyGlWKZJlUC77Mm2hA=w983-h1310-no)
+
+Beneath the giants.
+
+![overpass](https://lh3.googleusercontent.com/YW-b6jFAKk7ngMnCXE_1FLWuosloH88iQUivRiklTAvTfeZJblm_-OWVPQkMUJ8yLVyYCO5-Tg=w1747-h1310-no)
+
+Pedestrian overpass.
+
+![view-from-top](https://lh3.googleusercontent.com/o_pMOxt4LZL2wDGrIVdDXvs1Na1sricrIrTEM9ZW8vefzCL-kNx1V4F_Q6TyOgAT_tlaxEfllA=w1747-h1310-no)
+
+View from on top of the Jinmao Tower. Not the greatest picture due to the rain and the reflective glass, but still cool.
